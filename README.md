@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/force-guided-assembly-interface-explainer/
 
+Repository: https://github.com/mizcausevic-dev/force-guided-assembly-interface-explainer
+
 ## What this is
 
 An interactive anatomy plate for Force-Guided Assembly Interface. Play, scrub, or jump the five stages. The same frame always draws the same picture.
