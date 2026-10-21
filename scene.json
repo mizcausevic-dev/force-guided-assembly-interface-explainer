@@ -11,72 +11,72 @@
       "glyph": "sensor",
       "label": "Wrist sensor",
       "role": "sense",
-      "x": 0.12,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.24
     },
     {
       "id": "n2",
       "glyph": "plate",
       "label": "Mating parts",
       "role": "structure",
-      "x": 0.31,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.24
     },
     {
       "id": "n3",
       "glyph": "probe",
       "label": "Forces",
       "role": "path",
-      "x": 0.5,
-      "y": 0.32
+      "x": 0.86,
+      "y": 0.24
     },
     {
       "id": "n4",
       "glyph": "link",
       "label": "Torques",
       "role": "energy",
-      "x": 0.69,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.48
     },
     {
       "id": "n5",
       "glyph": "plate",
       "label": "Contact",
       "role": "structure",
-      "x": 0.88,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.48
     },
     {
       "id": "n6",
       "glyph": "doc",
       "label": "Small geometric mismatch",
       "role": "path",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.48
     },
     {
       "id": "n7",
       "glyph": "plate",
       "label": "Motion",
       "role": "structure",
-      "x": 0.413,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.74
     },
     {
       "id": "n8",
       "glyph": "card",
       "label": "Abstract compliant control",
       "role": "sense",
-      "x": 0.627,
-      "y": 0.68
+      "x": 0.5,
+      "y": 0.74
     },
     {
       "id": "n9",
       "glyph": "plate",
       "label": "Seating without invented tolerances",
       "role": "structure",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.74
     }
   ],
   "edges": [
